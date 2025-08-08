@@ -29,7 +29,12 @@ Welcome to the IronWarriors Web Portal showcase. Below are screenshots of key pa
   </figure>
 
   <figure style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-    <img src="screenshots/certificate-verification.png" alt="Certificate Verification Section" style="width: 100%; border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.1);" />
+    <img src="screenshots/certificate-verification_pass.png" alt="Certificate Verification Pass Section" style="width: 100%; border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.1);" />
+    <figcaption><strong>Certificate Verification Section</strong></figcaption>
+  </figure>
+
+  <figure style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+    <img src="screenshots/certificate-verification_failed.png" alt="Certificate Verification Failed Section" style="width: 100%; border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.1);" />
     <figcaption><strong>Certificate Verification Section</strong></figcaption>
   </figure>
 
